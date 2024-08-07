@@ -10,7 +10,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        brightRed: "#FD665E",
+        blueLagoon: "#4CB7A5",
         lightText: "#E9E9E9",
       },
       fontFamily: {

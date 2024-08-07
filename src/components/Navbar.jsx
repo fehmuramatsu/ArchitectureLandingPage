@@ -10,19 +10,22 @@ const Navbar = () => {
           <img src={icon} alt="logo" />
         </div>
         <nav className=" hidden md:flex gap-4 ">
-          <a className=" hover:text-brightRed transition-all " href="/works">
+          <a className=" hover:text-blueLagoon transition-all " href="/works">
             How it Works
           </a>
-          <a className=" hover:text-brightRed transition-all " href="/gallery">
+          <a className=" hover:text-blueLagoon transition-all " href="/gallery">
             Design Gallery
           </a>
           <a
-            className=" hover:text-brightRed transition-all "
+            className=" hover:text-blueLagoon transition-all "
             href="/Architects"
           >
             Architects
           </a>
-          <a className=" hover:text-brightRed transition-all " href="/Articles">
+          <a
+            className=" hover:text-blueLagoon transition-all "
+            href="/Articles"
+          >
             Articles
           </a>
         </nav>
