@@ -1,5 +1,5 @@
 import React from "react";
-import icon from "../assets/logo-arch.svg";
+import icon from "../assets/logo-arch.png";
 import Button from "../layout/Button";
 
 const Navbar = () => {
@@ -7,23 +7,23 @@ const Navbar = () => {
     <div className=" flex flex-row justify-between md:px-32 px-5 p-4 m-2 ">
       <div className="flex flex-row items-center gap-12 text-lightText p-2">
         <div>
-          <img src={icon} alt="logo" />
+          <img src={icon} alt="logo" className="h-[28px] w-[61px]" />
         </div>
         <nav className=" hidden md:flex gap-4 ">
-          <a className=" hover:text-blueLagoon transition-all " href="/works">
+          <a className=" hover:text-aquamarine transition-all " href="/works">
             How it Works
           </a>
-          <a className=" hover:text-blueLagoon transition-all " href="/gallery">
+          <a className=" hover:text-aquamarine transition-all " href="/gallery">
             Design Gallery
           </a>
           <a
-            className=" hover:text-blueLagoon transition-all "
+            className=" hover:text-aquamarine transition-all "
             href="/Architects"
           >
             Architects
           </a>
           <a
-            className=" hover:text-blueLagoon transition-all "
+            className=" hover:text-aquamarine transition-all "
             href="/Articles"
           >
             Articles

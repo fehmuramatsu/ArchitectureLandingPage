@@ -10,8 +10,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        blueLagoon: "#4CB7A5",
+        aquamarine: "#03BB85",
         lightText: "#E9E9E9",
+        brightgray: "#202020",
       },
       fontFamily: {
         playFair: ["Playfair Display", "serif"],

@@ -7,7 +7,7 @@ const Hero = () => {
     <div className=" min-h-screen flex flex-col justify-center md:px-32 px-5 p-4 m-2 ">
       <div className=" md:w-3/5 ">
         <h1 className=" text-8xl font-playFair font-semibold ">
-          Build Your Dream <span className=" text-blueLagoon ">House</span>
+          Build Your Dream <span className=" text-aquamarine ">House</span>
         </h1>
       </div>
       <div className=" flex flex-col md:flex-row pt-8 ">
