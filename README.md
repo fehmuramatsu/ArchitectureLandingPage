@@ -1,6 +1,6 @@
 # Video Time:
 
-30:12
+23:09
 
 # Video Url:
 

@@ -13,13 +13,13 @@ const Gallery = () => {
       </div>
       <div className=" flex flex-col items-center md:flex-row md:justify-between gap-5 ">
         <div>
-          <img src={img1} alt="" />
+          <img className=" rounded-md " src={img1} alt="" />
         </div>
         <div>
-          <img src={img2} alt="" />
+          <img className=" rounded-md " src={img2} alt="" />
         </div>
         <div>
-          <img src={img3} alt="" />
+          <img className=" rounded-md " src={img3} alt="" />
         </div>
       </div>
     </div>

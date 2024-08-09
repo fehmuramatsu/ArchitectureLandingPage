@@ -1,4 +1,5 @@
 import React from "react";
+import Consultation from "./components/Consultation";
 import Features from "./components/Features";
 import Gallery from "./components/Gallery";
 import Hero from "./components/Hero";
@@ -11,6 +12,7 @@ const App = () => {
       <Hero />
       <Gallery />
       <Features />
+      <Consultation />
     </>
   );
 };
