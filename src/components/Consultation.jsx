@@ -1,7 +1,11 @@
 import React from "react";
 
 const Consultation = () => {
-  return <div>Consultation</div>;
+  return (
+    <div>
+      <div></div>
+    </div>
+  );
 };
 
 export default Consultation;
