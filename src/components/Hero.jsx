@@ -16,7 +16,7 @@ const Hero = () => {
             100% guaranteed buid safe, comfortable and transparent with a
             project management for the best result
           </p>
-          <Button title="Free Consultation" />
+          <Button title="FREE CONSULTATION" />
         </div>
         <div>
           <img className=" rounded-md " src={img} alt="heroImg" />
