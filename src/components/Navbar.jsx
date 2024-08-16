@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className=" flex flex-row justify-between md:px-32 px-5 p-4 m-2 ">
       <div className="flex flex-row items-center gap-12 text-lightText p-2">
         <div>
-          <img src={icon} alt="logo" className="h-[28px] w-[61px]" />
+          <img src={icon} alt="logo" className="h-[55px] w-[61px]" />
         </div>
         <nav className=" hidden md:flex gap-4 ">
           <a className=" hover:text-aquamarine transition-all " href="/works">
