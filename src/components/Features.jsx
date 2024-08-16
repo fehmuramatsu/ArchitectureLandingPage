@@ -54,7 +54,7 @@ const Features = () => {
         </div>
       </div>
       <div className=" mt-10 flex flex-row justify-center ">
-        <Button title="Free Consultation" />
+        <Button title="FREE CONSULTATION" />
       </div>
     </div>
   );
