@@ -38,7 +38,7 @@ const Footer = () => {
 
       <div>
         <div className=" flex flex-row items-center p-2 gap-4 ">
-          <img src={logo} alt="logo" className="h-[41px] w-[71px]" />
+          <img src={logo} alt="logo" className="h-[41px] w-[81px]" />
         </div>
       </div>
     </div>
