@@ -1,4 +1,4 @@
-# English
+# ENGLISH
 
 This is a landing page developed using **React.js** and **Tailwind CSS**, designed to showcase a modern and innovative architecture firm. The goal of the page is to provide an attractive and functional visual experience, highlighting the company's services.
 
@@ -15,7 +15,7 @@ This is a landing page developed using **React.js** and **Tailwind CSS**, design
 - **Tailwind CSS**: CSS framework for rapid and efficient styling.
 - **JavaScript ES6+**: Modern JavaScript features for an enhanced development experience.
 
-# Português
+# PORTUGUÊS-BR
 
 Esta é uma landing page desenvolvida em **React.js** e **Tailwind CSS**, projetada para apresentar uma empresa de arquitetura moderna e inovadora. O objetivo da página é oferecer uma experiência visual atraente e funcional, destacando os serviços da empresa.
 
